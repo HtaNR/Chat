@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "947816420178",
+    "firebase_url": "https://gcmfirebaseproject-57122.firebaseio.com",
+    "project_id": "gcmfirebaseproject-57122",
+    "storage_bucket": "gcmfirebaseproject-57122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947816420178:android:16429ec3114487a2",
+        "android_client_info": {
+          "package_name": "com.hatta.gcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947816420178-mvfhg47njl9cpp4lafag28n9qfa8bm8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hatta.gcm",
+            "certificate_hash": "a98f08f8a04350ac1cd7d2f99ed586e81e053209"
+          }
+        },
+        {
+          "client_id": "947816420178-qdldhcmq7mdkt7dcir3tqgg6co7adi3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEtAvo08QozmxT8F5Ho00aLuSgJhlZ1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947816420178-qdldhcmq7mdkt7dcir3tqgg6co7adi3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
